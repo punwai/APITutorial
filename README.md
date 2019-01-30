@@ -26,5 +26,11 @@ Javascript has a library of p5.js which helps create a controllable canvas on th
 
 As p5.js is a library and not part of 'normal' javascript, we have to import it with the <script> command. We also have to import the javascript file, the javascript file will contain the code which controls the graphics of the page.
   
-RAIN GRAPHIC
-We will start learning p5.js by trying to create rain graphics. 
+Basic Javascript
+
+Variables:
+```var h = 0;```
+This declares a variable
+
+Task: Create an animation of a rain falling down continuously.
+
